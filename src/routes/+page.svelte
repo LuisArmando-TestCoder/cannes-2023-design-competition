@@ -59,7 +59,7 @@
     if (browser) {
         (function () {
             const i = new URLSearchParams(window.location.search).get('i')
-            src = `p${i}.png`
+            src = `p${i}.jpg`
         })()
     }
 </script>
